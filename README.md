@@ -1,4 +1,4 @@
-## Olá,Sou a Fernanda Campolin,estudante de programação.
+## Olá,Sou a Fernanda Campolin.
 🌱 Desenvolvedora Full Stack e Estudante de Ciência da Computação | Angular | TypeScript | .NET | C#
 <div align="center">
   <a href="https://github.com/fernandacamp">
