@@ -1,5 +1,5 @@
 ## Olá,Sou a Fernanda Campolin,estudante de programação.
-🌱 Estagiária de Desenvolvimento de sistemas e graduanda de Ciência da Computação.
+🌱 Desenvolvedora Full Stack e Estudante de Ciência da Computação | Angular | TypeScript | .NET | C#
 <div align="center">
   <a href="https://github.com/fernandacamp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandacamp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
